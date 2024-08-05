@@ -13,7 +13,9 @@ oportunidad y aprovechar al máximo sus datos para optimizar las ventas.
 Identificar cuáles son los productos del menú que han tenido más éxito y cuales son los que
 menos han gustado a los clientes.
 
-se anexan archivo de consultas 
+**se anexan archivo de consultas**
+
+tps://github.com/NazyEuse/Caso-practico-modulo-3/blob/main/consultas.sql
 
 ## Conclusiones del Análisis
 
