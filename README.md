@@ -13,6 +13,8 @@ oportunidad y aprovechar al máximo sus datos para optimizar las ventas.
 Identificar cuáles son los productos del menú que han tenido más éxito y cuales son los que
 menos han gustado a los clientes.
 
+se anexan archivo de consultas 
+
 ## Conclusiones del Análisis
 
 **1.- Artículos Más Vendidos del Menú:**
