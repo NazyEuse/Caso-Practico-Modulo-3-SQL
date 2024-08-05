@@ -25,7 +25,6 @@ Conclusión: Saber cuál es el tipo de cocina más popular puede guiar la planif
 ### Estas conclusiones y el análisis basado en los datos combinados de las tablas order_details y menu_items proporcionan una valiosa perspectiva para la toma de decisiones estratégicas en el restaurante.
 
 
-<picture>
-  <img alt="Diccionario de datos de las tablas." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+## Diccionario de datos de las tablas
+
 
