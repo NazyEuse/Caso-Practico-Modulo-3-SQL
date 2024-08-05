@@ -28,3 +28,6 @@ Conclusión: Saber cuál es el tipo de cocina más popular puede guiar la planif
 ## Diccionario de datos de las tablas
 
 
+
+
+
