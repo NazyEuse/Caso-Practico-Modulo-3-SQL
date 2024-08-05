@@ -15,7 +15,7 @@ menos han gustado a los clientes.
 
 **se anexan archivo de consultas**
 
-tps://github.com/NazyEuse/Caso-practico-modulo-3/blob/main/consultas.sql
+[tps://github.com/NazyEuse/Caso-practico-modulo-3/blob/main/consultas.sql](https://github.com/NazyEuse/Caso-practico-modulo-3/blob/main/consultas.sql)
 
 ## Conclusiones del Análisis
 
