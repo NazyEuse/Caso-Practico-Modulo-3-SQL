@@ -2,27 +2,32 @@
 
 ## Conclusiones del Análisis
 
-**Artículos Más Vendidos del Menú:**
+**1.- Artículos Más Vendidos del Menú:**
 
  Conclusión: Los dueños pueden enfocarse en mantener y promocionar los artículos más vendidos, asegurando su disponibilidad y considerando la posibilidad de crear promociones en torno a estos ítems.
 
-**## Ingreso Total por Tipo de Cocina:**
+**2.-Ingreso Total por Tipo de Cocina:**
 
 Conclusión: Es crucial identificar qué tipos de cocina generan más ingresos para poder enfocar recursos y marketing en estas áreas, además de evaluar la introducción de nuevos platos similares.
 
-**## Días con Mayor Cantidad de Pedidos:**
+**3.- Días con Mayor Cantidad de Pedidos:**
 
  Conclusión: Conocer los días pico permite planificar mejor la asignación de personal y la gestión de inventarios, asegurando que la demanda pueda ser atendida eficientemente.
 
-**## Precio Promedio por Pedido:**
+**4.- Precio Promedio por Pedido:**
 
 Conclusión: Analizar el precio promedio por pedido puede ayudar a entender el gasto típico de los clientes y ajustar las estrategias de precios y promociones en consecuencia.
 
-**## Popularidad de Tipos de Cocina:**
+**5.- Popularidad de Tipos de Cocina:**
 
 Conclusión: Saber cuál es el tipo de cocina más popular puede guiar la planificación del menú y asegurar que se satisfacen las preferencias de los clientes, mejorando la satisfacción y fidelización.
 
 ### Estas conclusiones y el análisis basado en los datos combinados de las tablas order_details y menu_items proporcionan una valiosa perspectiva para la toma de decisiones estratégicas en el restaurante.
 
 Diccionario de datos de las tablas.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
